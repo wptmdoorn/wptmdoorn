@@ -22,6 +22,6 @@ Author of Packages: **[methcomp](https://github.com/wptmdoorn/methcomp)**
   **[Twitter](https://twitter.com/DoornWilliam), [E-Mail](mailto:wptmdoorn@gmail.com)**
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wptmdoorn&theme=dark&count_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wptmdoorn&theme=dark&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=wptmdoorn&theme=dark&count_private=true&show_icons=true" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wptmdoorn&theme=dark&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
