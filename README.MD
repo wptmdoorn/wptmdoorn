@@ -13,7 +13,7 @@ Author of Packages: **[methcomp](https://github.com/wptmdoorn/methcomp)**
 
 ---
 
-- 🔭 I’m currently working as **resident clinical chemistry*
+- 🔭 I’m currently working as **resident clinical chemistry**
 - 🌱 I’m currently learning **client-side scripting**
 - 👯 I’m looking to collaborate on innovative (AI) projects
 - 🤔 I’m looking for help with the application of machine learning into healthcare
