@@ -6,7 +6,7 @@ Currently mostly skilled in **Python, R (including Shiny) and methodological/sta
 
 
 Packages: [methcomp](https://github.com/wptmdoorn/methcomp)  
-Papers: [10.1371/journal.pone.0245157](https://github.com/wptmdoorn/sepsis_versus_machinelearning), [10.1371/journal.pone.0253125](https://github.com/wptmdoorn/glucose_machine_learning)
+Papers: [10.1371/journal.pone.0245157](https://github.com/wptmdoorn/sepsis_versus_machinelearning), [10.1371/journal.pone.0253125](https://github.com/wptmdoorn/glucose_machine_learning)  
 Fun: [Personal assistant using ChatGPT and Whisper](https://github.com/wptmdoorn/personal-chatgpt-whisper), [📈 Productivity Insight](https://github.com/wptmdoorn/productivity_insight), [Automating your birthday wishes through WhatsApp!](https://github.com/wptmdoorn/birthday_whatsapp_automation), and [Full Quiz Application in R & Shiny!](https://github.com/wptmdoorn/kc_quiz_app).
 
 [![Linkedin: William van Doorn](https://img.shields.io/badge/-Doorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-van-doorn/)](https://www.linkedin.com/in/william-van-doorn/)
