@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am **William van Doorn** working as **resident clinical chemistry @ Maastricht University Medical Center**.
-Mainly in my spare time I am also an enthusastic junior **software developer** and **data scientist**.
+Working as **resident clinical chemistry @ Maastricht University Medical Center**.
+Also an enthusastic **software developer**.
 Currently mostly skilled in **Python, R (including Shiny) and methodological/statistical techniques.**
 
 
