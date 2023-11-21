@@ -5,7 +5,8 @@ Mainly in my spare time I am also an enthusastic junior **software developer** a
 Currently mostly skilled in **Python, R (including Shiny) and methodological/statistical techniques.**
 
 
-Author of Packages: **[methcomp](https://github.com/wptmdoorn/methcomp)**
+Packages: **[methcomp](https://github.com/wptmdoorn/methcomp)**
+Papers: **[10.1371/journal.pone.0245157](https://github.com/wptmdoorn/sepsis_versus_machinelearning)**, [10.1371/journal.pone.0253125(https://github.com/wptmdoorn/glucose_machine_learning)
 
 [![Linkedin: William van Doorn](https://img.shields.io/badge/-Doorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-van-doorn/)](https://www.linkedin.com/in/william-van-doorn/)
 [![GitHub William van Doorn](https://img.shields.io/github/followers/wptmdoorn?label=follow&style=social)](https://github.com/wptmdoorn)
