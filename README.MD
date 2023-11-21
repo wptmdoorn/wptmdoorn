@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-Working as **resident clinical chemistry @ Maastricht University Medical Center**.
-Also an enthusastic **software developer**.
-Currently mostly skilled in **Python, R (including Shiny) and methodological/statistical techniques.**
-
+- 🔭 I’m currently working as **resident clinical chemistry**
+- 🌱 I’m currently also building software
+- 👯 I’m looking to collaborate on innovative (AI) projects
+- 🤔 I’m looking for help with the application of machine learning into healthcare
+- 💬 Ask me about **Python and R for data analysis**
+- 📫 How to reach me:
+  **[Twitter](https://twitter.com/DoornWilliam), [E-Mail](mailto:wptmdoorn@gmail.com)**
 
 Packages: [methcomp](https://github.com/wptmdoorn/methcomp)  
 Papers: [10.1371/journal.pone.0245157](https://github.com/wptmdoorn/sepsis_versus_machinelearning), [10.1371/journal.pone.0253125](https://github.com/wptmdoorn/glucose_machine_learning)  
@@ -13,16 +16,6 @@ Fun: [Personal assistant using ChatGPT and Whisper](https://github.com/wptmdoorn
 [![GitHub William van Doorn](https://img.shields.io/github/followers/wptmdoorn?label=follow&style=social)](https://github.com/wptmdoorn)
 ![Twitter Follow](https://img.shields.io/twitter/follow/DoornWilliam?style=social)
 
----
-
-- 🔭 I’m currently working as **resident clinical chemistry**
-- 🌱 I’m currently learning **client-side scripting**
-- 👯 I’m looking to collaborate on innovative (AI) projects
-- 🤔 I’m looking for help with the application of machine learning into healthcare
-- 💬 Ask me about **Python and R for data analysis**
-- 📫 How to reach me:
-  **[Twitter](https://twitter.com/DoornWilliam), [E-Mail](mailto:wptmdoorn@gmail.com)**
-  
 ---
 
 <p align="center">
