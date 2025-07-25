@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as **resident clinical chemistry**
+- 🔭 I’m currently working as **clinical chemist** and **data & AI tech lead**
 - 🌱 I’m also building software
 - 👯 I’m looking to collaborate on innovative (AI) projects
 - 🤔 I’m looking for help with the application of machine learning into healthcare
